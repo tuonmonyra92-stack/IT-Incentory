@@ -1,0 +1,6 @@
+{
+  "name": "AssetPulse - IT Asset Management Portal",
+  "description": "Modern enterprise IT asset management portal featuring real-time hardware tracking, warranty alerts, inventory analytics, and CSV data workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
